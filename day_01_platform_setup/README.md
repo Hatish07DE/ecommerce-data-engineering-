@@ -43,10 +43,5 @@ All executable code for Day-1 is available here:
 
 ➡️ **`day1_data_load.ipynb`**
 
----
 
-## ⏭️ Next Steps (Day-2)
-- Define explicit schema
-- Create Bronze Delta table
-- Partition by `event_date`
 
